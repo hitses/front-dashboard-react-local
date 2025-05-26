@@ -21,7 +21,7 @@
   transition: color 0.3s ease;
 }
 
-[data-bs-theme="dark"] .logo span {
+[data-bs-theme='dark'] .logo span {
   color: #f8f9fa;
 }
 
@@ -32,6 +32,6 @@
   transition: color 0.3s ease;
 }
 
-[data-bs-theme="dark"] .toggle-sidebar-btn {
-  color: #f8f9fa;
+[data-bs-theme='dark'] .toggle-sidebar-btn {
+  color: #f8f9fa !important;
 }
